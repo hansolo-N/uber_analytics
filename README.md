@@ -1,4 +1,4 @@
-# Uber Analytics - Google Cloud Platform
+# 🚗 Uber Analytics - Google Cloud Platform
 
 ## Introduction
 This document provides a comprehensive guide to analyzing an Uber dataset using a suite of data engineering and analytics tools. The focus will be on leveraging Mage AI for orchestrating and executing data pipelines, alongside Google Cloud Platform (GCP) technologies to store, process, and visualize the data.
