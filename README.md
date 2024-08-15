@@ -32,6 +32,9 @@ This data will be analyzed to extract insights about trip patterns, fare distrib
 
 dataset - https://github.com/hansolo-N/uber_analytics/blob/main/uber_data.csv
 
+## Pipeline Mage AI
+![Pipeline Mage AI.](dependencies_tree.png)
+
 ## Looker Studio Report
 
 https://lookerstudio.google.com/reporting/cceb3c57-d1ec-4aab-9dc9-905786b2b56d/page/MQl8D
