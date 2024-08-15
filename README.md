@@ -36,6 +36,7 @@ dataset - https://github.com/hansolo-N/uber_analytics/blob/main/uber_data.csv
 ![Pipeline Mage AI.](dependencies_tree.png)
 
 ## Looker Studio Report
+![Project Architecture Flow diagram GCP.](looker_dashboard.png)
 
-https://lookerstudio.google.com/reporting/cceb3c57-d1ec-4aab-9dc9-905786b2b56d/page/MQl8D
+Report - https://lookerstudio.google.com/reporting/cceb3c57-d1ec-4aab-9dc9-905786b2b56d/page/MQl8D
 
